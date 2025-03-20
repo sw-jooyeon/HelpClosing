@@ -6,3 +6,5 @@ application.yml
 application-local.yml
 firebase_options.dart
 AndroidManifest.xml
+google-services.json
+GoogleService-Info.plist
